@@ -15,10 +15,8 @@ This Task was Created for Assesment purpose.
 
 ## Credentials
 some Credentials to use the App
-->username: __admin@mailinator.com__
+>username: __admin@mailinator.com__
 >password: __1234567__
-->username: __john@mailinator.com__
->password: __1234@13A1__
 
 ## Main Libraries use
 - Redux
