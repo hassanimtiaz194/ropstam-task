@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "username": "admin@mailinator.com",
+      "password": "1234567",
+      "phone": "111111111",
+      "userType": "admin"
+    },
+    {
+      "id": 2,
+      "name": "jane Doe",
+      "username": "jane@mailinator.com",
+      "password": "12456",
+      "phone": "222222222",
+      "userType": "user"
+    },
+    {
+      "id": 3,
+      "name": "johnny Doe",
+      "username": "johnny@mailinator.com",
+      "password": "78933",
+      "phone": "3333333333",
+      "userType": "user"
+    },
+    {
+      "id": 4,
+      "name": "john doe",
+      "username": "john@mailinator.com",
+      "password": "1234@13A1",
+      "phone": "",
+      "userType": "user"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Doe",
+      "username": "charlie@mailinator.com",
+      "password": "1234567@11A",
+      "phone": 0,
+      "userType": "user"
+    },
+    {
+      "id": 6,
+      "name": "joe",
+      "username": "joe@mailinator.com",
+      "password": "1234567@A",
+      "phone": 2222222222222,
+      "userType": "user"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "name": "Nissan Wagon R",
+      "make": "Nissan",
+      "model": 2018,
+      "color": "Silver",
+      "regNo": "AFG-100",
+      "category": "hatchback"
+    },
+    {
+      "id": 2,
+      "name": "Suzuki Wagon R",
+      "make": "Suzuki",
+      "model": 2017,
+      "color": "black",
+      "regNo": "WR-366",
+      "category": "hatchback"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category": "hatchback"
+    },
+    {
+      "id": 2,
+      "category": "sedan"
+    },
+    {
+      "id": 3,
+      "category": "van"
+    },
+    {
+      "id": 5,
+      "category": "truck"
+    }
+  ]
+}
