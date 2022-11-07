@@ -13,6 +13,13 @@ This Task was Created for Assesment purpose.
 2. Run __npm start__ to run the applications
 3. Run __npm run json-server__ to start the json Server
 
+## Credentials
+some Credentials to use the App
+username: __admin@mailinator.com__
+password: __1234567__
+username: __john@mailinator.com__
+password: __1234@13A1__
+
 ## Main Libraries use
 - Redux
 - Redux Saga
